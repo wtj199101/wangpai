@@ -29,3 +29,7 @@ wangpi-config.iml
 .project
 wangpai-eureka.iml
 target/
+
+wangpai-eureka/target/classes/application.properties
+wangpai-eureka/target/generated-sources/
+wangpai-eureka/target/generated-test-sources/

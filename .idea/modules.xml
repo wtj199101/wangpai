@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/wangpai-eureka-client/wangpai-eureka-client.iml" filepath="$PROJECT_DIR$/wangpai-eureka-client/wangpai-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-eureka-service/wangpai-eureka-service.iml" filepath="$PROJECT_DIR$/wangpai-eureka-service/wangpai-eureka-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-parent.iml" filepath="$PROJECT_DIR$/wangpai-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wangpai-rabbon-service/wangpai-rabbon-service.iml" filepath="$PROJECT_DIR$/wangpai-rabbon-service/wangpai-rabbon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangpai-ribbon-service/wangpai-rabbon-service.iml" filepath="$PROJECT_DIR$/wangpai-ribbon-service/wangpai-rabbon-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpi-config/wangpi-config.iml" filepath="$PROJECT_DIR$/wangpi-config/wangpi-config.iml" />
     </modules>
   </component>

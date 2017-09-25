@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/wangpai-eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wangpai-eureka-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wangpai-rabbon-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangpai-ribbon-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/wangpi-config" charset="UTF-8" />
   </component>
 </project>

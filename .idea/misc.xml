@@ -2,11 +2,16 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/wangpai-eureka" />
+    <file type="web" url="file://$PROJECT_DIR$/wangpai-eureka-client" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/wangpai-eureka-service/pom.xml" />
+        <option value="$PROJECT_DIR$/wangpai-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/wangpai-rabbon-service/pom.xml" />
       </list>
     </option>
   </component>

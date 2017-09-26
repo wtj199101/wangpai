@@ -24,27 +24,11 @@ hs_err_pid*
 .idea/
 .settings/
 wangpai-parent.iml
-wangpi-config.iml
+wangpi-config-service/wangpi-config-service.iml
 .classpath
 .project
 wangpai-eureka-client/wangpai-eureka-client.iml
 target/
 
 
-wangpai-eureka/target/classes/application.properties
-wangpai-eureka/target/generated-sources/
-wangpai-eureka/target/generated-test-sources/
-wangpai-eureka-client/pom.xml
-wangpai-eureka-client/src/
-wangpai-eureka-service/.gitignore
-wangpai-eureka-service/.mvn/
-wangpai-eureka-service/pom.xml
-wangpai-eureka-service/src/main/java/
-wangpai-eureka-service/src/test/
-wangpai-rabbon-service/.gitignore
-wangpai-rabbon-service/.mvn/
-wangpai-rabbon-service/pom.xml
-wangpai-rabbon-service/src/main/java/com/wp/cloud/wangpia/rabbon/WangpaiRabbonServiceApplication.java
-wangpai-rabbon-service/src/main/resources/
-wangpai-rabbon-service/src/test/
-wangpi-config/src/
+

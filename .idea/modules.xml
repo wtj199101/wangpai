@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/wangpai-cf-client/wangpai-cf-client.iml" filepath="$PROJECT_DIR$/wangpai-cf-client/wangpai-cf-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangpai-cf-service/wangpai-cf-service.iml" filepath="$PROJECT_DIR$/wangpai-cf-service/wangpai-cf-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-eureka-client/wangpai-eureka-client.iml" filepath="$PROJECT_DIR$/wangpai-eureka-client/wangpai-eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-eureka-service/wangpai-eureka-service.iml" filepath="$PROJECT_DIR$/wangpai-eureka-service/wangpai-eureka-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-feign-service/wangpai-feign-service.iml" filepath="$PROJECT_DIR$/wangpai-feign-service/wangpai-feign-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-parent.iml" filepath="$PROJECT_DIR$/wangpai-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-ribbon-service/wangpai-ribbon-service.iml" filepath="$PROJECT_DIR$/wangpai-ribbon-service/wangpai-ribbon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangpai-zipkin-service/wangpai-zipkin-service.iml" filepath="$PROJECT_DIR$/wangpai-zipkin-service/wangpai-zipkin-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/wangpai-zuul-service/wangpai-zuul-service.iml" filepath="$PROJECT_DIR$/wangpai-zuul-service/wangpai-zuul-service.iml" />
     </modules>
   </component>

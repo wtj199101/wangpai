@@ -16,6 +16,9 @@
         <option value="$PROJECT_DIR$/wangpai-feign-service/pom.xml" />
         <option value="$PROJECT_DIR$/wangpai-zuul-service/pom.xml" />
         <option value="$PROJECT_DIR$/wangpi-config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/wangpai-cf-service/pom.xml" />
+        <option value="$PROJECT_DIR$/wangpai-cf-client/pom.xml" />
+        <option value="$PROJECT_DIR$/wangpai-zipkin-service/pom.xml" />
       </list>
     </option>
   </component>

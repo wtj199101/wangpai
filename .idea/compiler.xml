@@ -6,17 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="wangpai-cf-client" />
+        <module name="wangpai-cf-service" />
         <module name="wangpai-eureka-client" />
         <module name="wangpai-eureka-service" />
         <module name="wangpai-feign-service" />
         <module name="wangpai-rabbon-service" />
         <module name="wangpai-ribbon-service" />
+        <module name="wangpai-zipkin-service" />
         <module name="wangpai-zuul-service" />
         <module name="wangpi-config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="service-ribbon" target="1.8" />
+      <module name="wangpai-cf-client" target="1.8" />
+      <module name="wangpai-cf-service" target="1.8" />
       <module name="wangpai-eureka" target="1.8" />
       <module name="wangpai-eureka-client" target="1.8" />
       <module name="wangpai-eureka-service" target="1.8" />
@@ -24,6 +29,7 @@
       <module name="wangpai-parent" target="1.8" />
       <module name="wangpai-rabbon-service" target="1.8" />
       <module name="wangpai-ribbon-service" target="1.8" />
+      <module name="wangpai-zipkin-service" target="1.8" />
       <module name="wangpai-zuul-service" target="1.8" />
       <module name="wangpi-config" target="1.8" />
     </bytecodeTargetLevel>

@@ -9,7 +9,6 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class WangpaiEurekaServiceApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(WangpaiEurekaServiceApplication.class, args);
 	}
 }

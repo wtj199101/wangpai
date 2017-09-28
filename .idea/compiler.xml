@@ -19,6 +19,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BootServer" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="wangpai-cf-client" target="1.8" />
       <module name="wangpai-cf-service" target="1.8" />
